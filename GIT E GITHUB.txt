@@ -1,0 +1,49 @@
+Sobre GitHub e Git
+
+-Git: tecnologia de versionamento (histórico de código)
+-GitHub: site/rede social de código
+
+Uso geral:
+-Linha de Comando (CMD, Terminal, PowerShell)
+-GitHub Desktop: software do GitHub para manipulação de projetos Git
+
+
+Para uso em casa, instalar:
+
+1) Git: https://git-scm.com/downloads
+2) GitHub Desktop: https://desktop.github.com/
+
+
+-Curso Guanabara Git e GitHub
+https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA
+
+-Site Oficial
+https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
+
+
+
+
+-Repositórios: pastas/diretórios contendo os arquivos desenvolvidos em um projeto. Esta pasta (repositório) é monitorada pelo Git e GitHub.
+
+-Repositório de site: repositório especial que sempre tem o nomedelogin.github.io
+
+
+
+
+-GitHub com os arquivos do Professor:
+https://github.com/tiagoprogwebt22/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
