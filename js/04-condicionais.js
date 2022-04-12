@@ -47,7 +47,7 @@ if(media < 3){
     desempenho = "bom";
 } else {
     desempenho = "ótimo";
-}0,,,
+}
 console.log(desempenho);
 
 
