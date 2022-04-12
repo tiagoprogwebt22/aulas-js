@@ -27,7 +27,15 @@ console.log(`Notas: ${nota1} e ${nota2}`);
 console.log(`Média: ${media.toFixed(2)}`);
 
 let situacao;  // undefined (indefinida)
-if( media >= 7 ){
+let faltas = 20;
+console.log(`Faltas: ${faltas}`);
+
+//if( media >= 7 ){
+
+/* && -> operador lógico E 
+Usado quando precisamos avaliar mais de uma
+condição ao mesmo tempo */
+if( media >= 7 && faltas < 15 ){
     situacao = "aprovado";
 } else {
     situacao = "reprovado";
