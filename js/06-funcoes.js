@@ -23,7 +23,6 @@ console.log(`Escola: ${escola}`);
 linha();
 console.log(`Ano: ${ano}`);
 
-
               // parâmetros/argumentos
 function soma( valor1, valor2 ){
     let total = valor1 + valor2;
@@ -39,8 +38,6 @@ console.log(resultado);
 if(resultado < 1000){
     console.log("Abaixo da meta");
 }
-
-
 
 
 
